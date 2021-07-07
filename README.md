@@ -28,12 +28,12 @@ This project is implemented by using an RPi Model 4 and a BH1750 Light Sensor. T
 * SCL to GPIO 3 (SCL) on Rpi
 
 ## Use the following command to run the code
-'''bash
-python3 main.py
+''' bash
+> python3 main.py
 
 ## Use the following command to manually set the brightness of the monitor
-'''bash
-python3 manual.py
+''' bash
+> python3 manual.py
 
 ## Roadmap/Future Improvements
 1) To have different brightness profile depending on the wifi address
