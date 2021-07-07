@@ -1,0 +1,4 @@
+scipy==1.4.1
+matplotlib==3.3.2
+board==1.0
+wifi==0.3.8
