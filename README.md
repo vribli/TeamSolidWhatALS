@@ -18,7 +18,7 @@ This folder contains all the python scripts for the implementation of the projec
 * BH1750
 * Raspberry Pi Model 4
 * Monitor with DDC capability and Enabled
-* To Enable DDC on monitor use the physical buttons on the screen
+* To Enable DDC on monitor use the physical buttons present on the monitor
 
 ## Implementation
 This project is implemented by using an RPi Model 4 and a BH1750 Light Sensor. They are connected as bellow
